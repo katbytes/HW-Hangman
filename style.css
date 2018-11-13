@@ -1,6 +1,8 @@
 body {
-	background: #02195d;
+	background: #050e2f;
 	background-image: url("./assets/bg-80s-50op.png");
+	background-repeat: no-repeat;
+	background-position: center;
 	font-family: 'Lato', sans-serif;
 	font-family: 'KoHo', sans-serif;
 	text-transform: capitalize;
