@@ -1,174 +1,178 @@
 body {
-	background: #050e2f;
-	background-image: url("./assets/bg-80s-50op.png");
-	background-repeat: no-repeat;
-	background-position: center;
-	font-family: 'Lato', sans-serif;
-	font-family: 'KoHo', sans-serif;
-	text-transform: capitalize;
-	letter-spacing: 1px;
-	font-weight: bolder;
-	color: #fff;
-	height: 100%;
-	text-align: center;
-	font-size: 14px;
-	padding-top: 30px;
+background: #050e2f;
+background-image: url("./assets/bg-80s-50op.png");
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Lato', sans-serif;
+font-family: 'KoHo', sans-serif;
+text-transform: capitalize;
+letter-spacing: 1px;
+font-weight: bolder;
+color: #fff;
+height: 100%;
+text-align: center;
+font-size: 14px;
+padding-top: 30px;
 }
 .wrappper {
-	width: 100%;
-	margin: 0 auto;
+width: 100%;
+margin: 0 auto;
 }
 .wrappper:after {
-	content: "";
-	display: table;
-	clear: both;
+content: "";
+display: table;
+clear: both;
 }
 canvas {
-	color: #fff;
-	border: #fff dashed 2px;
-	padding: 15px;
+color: #fff;
+border: #fff dashed 2px;
+padding: 15px;
 }
 h1, h2, h3 {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
-	text-transform: uppercase;
-	margin: 5px 0;
+font-family: 'Roboto', sans-serif;
+font-weight: 100;
+text-transform: uppercase;
+margin: 5px 0;
 }
 h1 {
-	font-size: 2.6em;
-	background-image: url("./assets/logo.png");
-	background-repeat: no-repeat;
-	background-position: center;
-	height: 100px;
-   /* background-size: 100%;
-	*/
+font-size: 2.6em;
+background-image: url("./assets/logo.png");
+background-repeat: no-repeat;
+background-position: center;
+height: 100px;
+/* background-size: 100%;
+*/
 }
 h2 {
-	font-size: 1.6em;
+font-size: 1.6em;
 }
 p {
-	font-family: 'Lato', sans-serif;
-	font-family: 'KoHo', sans-serif;
-	font-size: 1.6em;
+font-family: 'Lato', sans-serif;
+font-family: 'KoHo', sans-serif;
+font-size: 1.6em;
 }
 #alphabet {
-	margin: 15px auto;
-	padding: 0;
-	max-width: 900px;
+margin: 15px auto;
+padding: 0;
+max-width: 900px;
 }
 #alphabet:after {
-	content: "";
-	display: table;
-	clear: both;
+content: "";
+display: table;
+clear: both;
 }
 #alphabet li {
-	float: left;
-	margin: 0 10px 10px 0;
-	list-style: none;
-	width: 35px;
-	height: 30px;
-	padding-top: 10px;
-	background: #ff02f5;
-	color: #000;
-	font-size: 18px;
-	cursor: pointer;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	border-radius: 5px;
-	-khtml-border-radius: 5px;
-	border: solid 1px #63becf;
+float: left;
+margin: 0 10px 10px 0;
+list-style: none;
+width: 35px;
+height: 30px;
+padding-top: 10px;
+background: #ff02f5;
+color: #000;
+font-size: 18px;
+cursor: pointer;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+-khtml-border-radius: 5px;
+border: solid 1px #63becf;
 }
 #alphabet li:hover {
-	background: #63becf;
-	border: solid 1px #ff02f5;
-	color: #000;
+background: #63becf;
+border: solid 1px #ff02f5;
+color: #000;
 }
 #my-word {
-	margin: 0;
-	display: block;
-	padding: 0;
-	display: block;
+margin: 0;
+display: block;
+padding: 0;
+display: block;
 }
 #my-word li {
-	color: #63becf;
-   /* font-size: 20px;
-	*/
-	position: relative;
-	list-style: none;
-	margin: 0;
-	display: inline-block;
-	padding: 0 10px;
-	font-size: 1.6em;
+color: #63becf;
+/* font-size: 20px;
+*/
+position: relative;
+list-style: none;
+margin: 0;
+display: inline-block;
+padding: 0 10px;
+font-size: 1.6em;
 }
 .active {
-	opacity: 0.4;
-	filter: alpha(opacity=40);
-	-moz-transition: all 1s ease-in;
-	-moz-transition: all 0.3s ease-in-out;
-	-webkit-transition: all 0.3s ease-in-out;
-	cursor: default;
+opacity: 0.4;
+filter: alpha(opacity=40);
+-moz-transition: all 1s ease-in;
+-moz-transition: all 0.3s ease-in-out;
+-webkit-transition: all 0.3s ease-in-out;
+cursor: default;
 }
 .active:hover {
-	-moz-transition: all 1s ease-in;
-	-moz-transition: all 0.3s ease-in-out;
-	-webkit-transition: all 0.3s ease-in-out;
-	opacity: 0.4;
-	filter: alpha(opacity=40);
-	-moz-transition: all 1s ease-in;
-	-moz-transition: all 0.3s ease-in-out;
-	-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 1s ease-in;
+-moz-transition: all 0.3s ease-in-out;
+-webkit-transition: all 0.3s ease-in-out;
+opacity: 0.4;
+filter: alpha(opacity=40);
+-moz-transition: all 1s ease-in;
+-moz-transition: all 0.3s ease-in-out;
+-webkit-transition: all 0.3s ease-in-out;
 }
 #mylives {
-	font-size: 1.6em;
-	text-align: center;
-	display: block;
+font-size: 1.6em;
+text-align: center;
+display: block;
 }
 button {
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	border-radius: 5px;
-	-khtml-border-radius: 5px;
-	background: #02195d;
-	color: #ff02f5;
-	border: solid 1px #63becf;
-	text-decoration: none;
-	cursor: pointer;
-	font-size: 2em;
-	padding: 18px 10px;
-	width: 180px;
-	margin: 10px;
-	outline: none;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+-khtml-border-radius: 5px;
+background: #02195d;
+color: #ff02f5;
+border: solid 1px #63becf;
+text-decoration: none;
+cursor: pointer;
+font-size: 2em;
+padding: 18px 10px;
+width: 180px;
+margin: 10px;
+outline: none;
 }
 button:hover {
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-	background: #63becf;
-	border: solid 1px #ff02f5;
-	color: #000;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+background: #63becf;
+border: solid 1px #ff02f5;
+color: #000;
+}
+iframe {
+height: 0px;
+/* Muhaha */
 }
 @media (max-width: 767px) {
-	body {
-		padding-top: 0px;
-   }
-	h1 {
-		background-image: url("./assets/logo.png");
-		background-repeat: no-repeat;
-		background-position: center;
-		height: 100px;
-		background-size: 120%;
-   }
-	#alphabet {
-		padding: 0 0 0 15px;
-   }
-   button {
-	font-size: 2em;
-	padding: 10px 6px;
-	width: 150px;
+body {
+padding-top: 0px;
+}
+h1 {
+background-image: url("./assets/logo.png");
+background-repeat: no-repeat;
+background-position: center;
+height: 100px;
+background-size: 120%;
+}
+#alphabet {
+padding: 0 0 0 15px;
+}
+button {
+font-size: 2em;
+padding: 10px 6px;
+width: 150px;
 }
 }
 @media (max-width: 480px) {
-	#alphabet {
-		padding: 0 0 0 25px;
-   }
+#alphabet {
+padding: 0 0 0 25px;
+}
 }
