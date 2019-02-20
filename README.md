@@ -1,7 +1,4 @@
-# HW-Hangman
-UCSD - 1980's Hangman
-
-# &#35; Mongo-Scraper&nbsp;&nbsp;<img src="<img src="https://img.icons8.com/color/48/000000/80s-music.png"><img src="https://img.icons8.com/color/48/000000/vhs.png"><img src="https://img.icons8.com/color/48/000000/joystick.png"><img src="https://img.icons8.com/color/48/000000/retro-tv.png"><img src="https://img.icons8.com/color/48/000000/boombox.png">">
+# &#35; 80's Hangman&nbsp;&nbsp;"<img src="https://img.icons8.com/color/48/000000/80s-music.png"><img src="https://img.icons8.com/color/48/000000/vhs.png"><img src="https://img.icons8.com/color/48/000000/joystick.png"><img src="https://img.icons8.com/color/48/000000/retro-tv.png"><img src="https://img.icons8.com/color/48/000000/boombox.png">
 
 Just a simple JS Hangman game. Turn up your speakers! <img src="https://img.icons8.com/color/48/000000/medium-volume.png"><img src="https://img.icons8.com/color/48/000000/dancing.png">
 
@@ -12,10 +9,10 @@ Try the app Here [https://katbytes.github.io/HW-Hangman/](https://katbytes.githu
 ![Screenshot 1](https://github.com/katbytes/HW-Hangman/blob/master/assets/screenshot_1.png)
 `Scrape for articles`&#8673;
 
-![Screenshot 2](/blob/master/assets/screenshot_2.png)
+![Screenshot 2](https://github.com/katbytes/HW-Hangman/blob/master/assets/screenshot_2.png)
 `Save your favourite articles`&#8673;
 
-![Screenshot 3](/blob/master/assets/screenshot_3.png)
+![Screenshot 3](https://github.com/katbytes/HW-Hangman/blob/master/assets/screenshot_3.png)
 `Leave notes/comment on specific articles`&#8673;
 
 ## Technologies Utilized
