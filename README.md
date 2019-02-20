@@ -9,7 +9,7 @@ Just a simple JS Hangman game. Turn up your speakers! <img src="https://img.icon
 Try the app Here [https://katbytes.github.io/HW-Hangman/](https://katbytes.github.io/HW-Hangman/)
 
 ## Screenshots:
-![Screenshot 1](/blob/master/assets/screenshot_1.png)
+![Screenshot 1](https://github.com/katbytes/HW-Hangman/blob/master/assets/screenshot_1.png)
 `Scrape for articles`&#8673;
 
 ![Screenshot 2](/blob/master/assets/screenshot_2.png)
